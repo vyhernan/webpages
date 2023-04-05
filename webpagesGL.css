@@ -1,19 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Victor Hernandez
+ *UnityID: vyhernan
+ *Date: [4.4.2023
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab Assignment, about me webpage
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size: 16px;
+    color: #FFFFFF;
 }
 
-.class {
-    property: value;
+.table-border {
+	border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+    max-height: 200px;
 }
